@@ -1,5 +1,5 @@
 # DYNAC-download-V7R2
-Legacy version; the current version can be downloaded from [here](https://github.com/dynac-source/DYNAC-download#readme)
+Legacy version; the current version can be downloaded from [here](https://github.com/dynac-source/DYNAC-download#readme)  
 **DYNAC DOWNLOAD PAGE for DYNAC V7R2, a Multiparticle Beam Simulation Code for linacs and beam transport lines.**  
 LINUX, MAC and WINDOWS downloads for the simulation code DYNAC V7R2 can be found on this page. Instructions for installation after downloading are in the file: [readme.txt](https://github.com/dynac-source/DYNAC-download/blob/main/readme.txt). This file is also contained in the full package below.
 
