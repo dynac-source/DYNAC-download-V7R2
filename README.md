@@ -35,7 +35,7 @@ DYNAC source file (for LINUX and MAC, tar/gz format) [dynacv7r2_source.tar.gz](h
 Script to compile the DYNAC source (for LINUX and MAC, text format) [comv7](https://github.com/dynac-source/DYNAC-download/blob/main/comv7)  
 
 
-[dyndat.f90](https://github.com/dynac-source/DYNAC-download-V7R2/blob/main/dyndat_V3R3.f90) (source file (V3.3) in text format, to be renamed dyndat.f90) is used for GNUPLOT based plots.  
+[dyndat.f90](https://github.com/dynac-source/DYNAC-download-V7R2/blob/main/dyndat_V3R3.f90) (source file V3R3) in text format, to be renamed dyndat.f90) is used for GNUPLOT based plots.  
 Script to compile the dyndat source (for WINDOWS, .bat file) [complt.bat](https://github.com/dynac-source/DYNAC-download/blob/main/complt.bat)  
 Script to compile the dyndat source (for LINUX and MAC, text format) [complt](https://github.com/dynac-source/DYNAC-download/blob/main/complt)  
 
