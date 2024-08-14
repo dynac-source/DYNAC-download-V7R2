@@ -59,7 +59,7 @@ DGUI source (.py) [dgui.py](https://github.com/dynac-source/DYNAC-download-V7R2/
 DGUI icon (.png) to be stored in directory dynac/bin [dynicon.png](https://github.com/dynac-source/DYNAC-download/blob/main/dynicon.png)  
 DGUI example .ini file for linux and MAC [dgui_example_linmac.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_linmac.ini)  
 DGUI example .ini file for  Windows [dgui_example_windows.ini](https://github.com/dynac-source/DYNAC-download/blob/main/dgui_example_windows.ini)  
-DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source-V7R2/DYNAC-download/blob/main/dgui_UG.pdf)  
+DGUI User Guide (pdf format) [DGUI User Guide](https://github.com/dynac-source/DYNAC-download-V7R2/blob/main/dgui_UG.pdf)  
 
 *Note: The example .ini file needs to be renamed to dgui.ini (see User Guide)*  
 
